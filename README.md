@@ -14,10 +14,6 @@
   <br />
   <br />
   <a href="https://ogola720-soil-analysis-app-sbsc5p.streamlit.app/">View Demo</a>
-  ·
-  <a href="(https://github.com/Ogola720)">Report Bug</a>
-  ·
-  <a href="(https://github.com/Ogola720)">Request Feature</a>
 </p>
 
 <details>
