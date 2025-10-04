@@ -167,4 +167,4 @@ crop-recommendation/
 ## 👨‍💻 Contact
 
 **Peter Ogola** - [ayienga.peter@gmail.com]
-** Brian Muthengi** -[brianmuthengi91@gmail.com]
+Brian Muthengi - [brianmuthengi91@gmail.com]
