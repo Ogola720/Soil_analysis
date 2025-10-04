@@ -15,9 +15,9 @@
   <br />
   <a href="[#-usage](https://github.com/Ogola720/Soil_analysis/tree/main)">View Demo</a>
   ·
-  <a href="https://github.com/[Ogola720]/crop-recommendation/issues">Report Bug</a>
+  <a href="[https://github.com/[Ogola720]/crop-recommendation/issues](https://github.com/Ogola720)">Report Bug</a>
   ·
-  <a href="https://github.com/[Ogola720]/crop-recommendation/issues">Request Feature</a>
+  <a href="[https://github.com/[Ogola720]/crop-recommendation/issues](https://github.com/Ogola720)">Request Feature</a>
 </p>
 
 <details>
