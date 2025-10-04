@@ -13,11 +13,11 @@
   <a href="#-about-the-project"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="[#-usage](https://github.com/Ogola720/Soil_analysis/tree/main)">View Demo</a>
+  <a href="https://ogola720-soil-analysis-app-sbsc5p.streamlit.app/">View Demo</a>
   ·
-  <a href="[https://github.com/[Ogola720]/crop-recommendation/issues](https://github.com/Ogola720)">Report Bug</a>
+  <a href="(https://github.com/Ogola720)">Report Bug</a>
   ·
-  <a href="[https://github.com/[Ogola720]/crop-recommendation/issues](https://github.com/Ogola720)">Request Feature</a>
+  <a href="(https://github.com/Ogola720)">Request Feature</a>
 </p>
 
 <details>
