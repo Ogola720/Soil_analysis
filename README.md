@@ -78,7 +78,7 @@ Make sure you have **Python 3.9 or higher** installed on your system.
 
 1.  **Clone the Repository**
     ```sh
-    git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/crop-recommendation.git
+    git clone [https://github.com/](https://github.com/)Ogola720/Soil_analysis.git
     cd crop-recommendation
     ```
 
